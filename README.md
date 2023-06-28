@@ -11,7 +11,7 @@ Hi, I'm DCCoder!
 </p>
 <hr/>
 
-My name is Ernest Mallett.  I am a Sr. Software Engineer working at [Computacenter-US](https://www.computacenter.com/us).  Formerly I have been a C# development instructor, Lead Developer, Team Lead, and other positions with other companies. I have been programming since I was 8 years old, starting with Basic and working my way up.   My first love was PHP, developing websites and data collection interfaces.
+My name is Ernest Mallett.  I am a Principal Engineer working at [Elsevier](https://beta.elsevier.com/?trial=true) in the [Aries](https://www.ariessys.com/) department.  Formerly I have been a C# development instructor, Lead Developer, Team Lead, Sr. Engineer, and other positions with other companies. I have been programming since I was 8 years old, starting with Basic and working my way up.   My first love was PHP, developing websites and data collection interfaces.
 
 [![DCCoder StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8333554)](https://stackoverflow.com/users/8333554/dccoder)
 
