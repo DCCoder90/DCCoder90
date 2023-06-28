@@ -1,8 +1,8 @@
 
 <h1 align="center">
-Hi, I'm DCCoder!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/dccoder90" alt="Profile views" align='right'/> <a href="https://github.com/dccoder90/dccoder90/"> </a>
+	Hi, I'm DCCoder!
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 <br/>
 
 <!-- Typing SVG by DCCoder90 - https://github.com/DCCoder90/readme-typing-svg -->
