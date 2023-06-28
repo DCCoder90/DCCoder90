@@ -22,8 +22,6 @@ My name is Ernest Mallett.  I am a Principal Engineer working at [Elsevier](http
   </a>
 </p>
 
-[![DCCoder's github activity graph](https://activity-graph.herokuapp.com/graph?username=dccoder90&theme=react-dark)](https://github.com/dccoder90/github-readme-activity-graph)
-
 ### 👨‍💻 Programming languages
 
 <p>
