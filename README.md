@@ -26,6 +26,7 @@ My name is Ernest Mallett.  I am a Principal Engineer working at [Elsevier](http
 
 <p>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3ADCCoder90+language%3Acplusplus"><img alt="C++" src="https://img.shields.io/badge/C++-121011.svg?logo=cplusplus&logoColor=blue"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
