@@ -1,50 +1,54 @@
 
-<h1 align="center">
-	Hi, I'm DCCoder!
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-<br/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!-- Typing SVG by DCCoder90 - https://github.com/DCCoder90/readme-typing-svg -->
+<h1 align="center">
+Hi, I'm DCCoder!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
   <a href="https://github.com/DCCoder90/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Code%20lover%20|%20Cloud%20Enthusiast;Always%20in%20beta|Ever%20Learning&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 
-My name is Ernest Mallett.  I am a Principal Engineer working at [Elsevier](https://beta.elsevier.com/?trial=true) in the [Aries](https://www.ariessys.com/) department.  Formerly I have been a C# development instructor, Lead Developer, Team Lead, Sr. Engineer, and other positions with other companies. I have been programming since I was 8 years old, starting with Basic and working my way up.   My first love was PHP, developing websites and data collection interfaces.
+My name is Ernest Mallett. I am a Principal Engineer working at [Elsevier](https://beta.elsevier.com/?trial=true) in Submissions. Formerly I have been a C# development instructor, Lead Developer, Team Lead, Sr. Engineer, and other positions with other companies. I have been programming since I was 8 years old, starting with Basic and working my way up. My first love was PHP, developing websites and data collection interfaces in my teenage years.
 
 [![DCCoder StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8333554)](https://stackoverflow.com/users/8333554/dccoder)
 
-<!-- GitHub Readme Streak Stats - https://github.com/DCCoder90/github-readme-streak-stats -->
+
 <p align="center">
   <a href="https://github.com/DCCoder90/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DCCoder's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dccoder90&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DCCoder90">
+    <img title="GithubStats" src="https://github-readme-stats.vercel.app/api?username=dccoder90&show_icons=true&theme=radical&hide=contribs&rank_icon=github&show=prs_merged"/>
+  </a>
+</p>
+
 ### 👨‍💻 Programming languages
 
 <p>
+    <a href="https://github.com/search?q=user%3ADCCoder90+language%3Apowershell"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-007ACC.svg?logo=powershell&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3ADCCoder90+language%3Acplusplus"><img alt="C++" src="https://img.shields.io/badge/C++-121011.svg?logo=cplusplus&logoColor=blue"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADCCoder90+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADCCoder90+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=oracle&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADCCoder90+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADCCoder90+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+       <a href="https://github.com/search?q=user%3ADCCoder90+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Abash"><img alt="Rust" src="https://img.shields.io/badge/Rust-111711.svg?logo=rust&logoColor=orange"></a>
+     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/Go-007ACC.svg?logo=go&logoColor=white"></a>
 </p>
-
-
 
 ### 🧰 Frameworks and libraries
 
@@ -70,13 +74,13 @@ My name is Ernest Mallett.  I am a Principal Engineer working at [Elsevier](http
 <p>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF6C37?logo=amazon-aws&logoColor=white"></a>
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-00f.svg?logo=microsoft-azure&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+        <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-00f.svg?logo=microsoft-sql-server&logoColor=white"></a>
+     <a href="#"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-fff.svg?logo=neo4j&logoColor=blue"></a>
+         <a href="https://www.stackoverflow.com"><img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-FE7A16?logo=amazon-aws&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
@@ -97,4 +101,23 @@ My name is Ernest Mallett.  I am a Principal Engineer working at [Elsevier](http
     <a href="https://www.stackoverflow.com"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://www.jetbrains.com/"><img alt="Jetbrains" src="https://img.shields.io/badge/Jetbrains-121011.svg?logo=jetbrains&logoColor=white"></a>
+      <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-fff.svg?logo=terraform&logoColor=purple"></a>
+            <a href="#"><img alt="Vault" src="https://img.shields.io/badge/Vault-fff.svg?logo=vault&logoColor=black"></a>
 </p>
+
+### 📂Documentation
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="https://www.atlassian.com/software/confluence"><img alt="Confluence" src="https://img.shields.io/badge/-Confluence-0000CC?logo=confluence&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+          <a href="https://mermaid.js.org"><img alt="Mermaid" src="https://img.shields.io/badge/Mermaid-5C2D91.svg?logo=markdown&logoColor=white"></a>
+          <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+          <a href="https://www.openapis.org/"><img alt="Android" src="https://img.shields.io/badge/OpenAPI-3DDC84?logo=swagger&logoColor=white"></a>
+        <a href="https://www.baeldung.com/javadoc"><img alt="JavaDoc" src="https://img.shields.io/badge/JavaDoc-007396.svg?logo=oracle&logoColor=white"></a>
+             <a href="https://obsidian.md/"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-000000.svg?logo=obsidian&logoColor=purple"></a>
+                 <a href="https://joplinapp.org/"><img alt="Joplin" src="https://img.shields.io/badge/Joplin-007ACC.svg?logo=joplin&logoColor=white"></a>
+</p>
+
+
+*Profile modules supplied by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
