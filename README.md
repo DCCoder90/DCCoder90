@@ -7,7 +7,7 @@
 Hi, I'm DCCoder!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
-  <a href="https://github.com/DCCoder90/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Code%20lover%20|%20Cloud%20Enthusiast;Always%20in%20beta|Ever%20Learning&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&pause=1000&center=true&width=380&height=45&lines=Code+lover+%7C+Cloud+Enthusiast;Always+in+beta%7CEver+Learning" alt="Typing SVG" /></a>
 </p>
 <hr/>
 
