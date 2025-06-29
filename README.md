@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlqNjZkcmZxaGFyczF1a2s0N2c1ZXAwOWw4aWw4d2xwd2JkcTRoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" width="100"/>
 </div>
 
 <h1 align="center">
@@ -12,9 +12,6 @@ Hi, I'm DCCoder!
 <hr/>
 
 My name is Ernest Mallett. I am a Principal Engineer working at [Elsevier](https://beta.elsevier.com/?trial=true) in Submissions. Formerly I have been a C# development instructor, Lead Developer, Team Lead, Sr. Engineer, and other positions with other companies. I have been programming since I was 8 years old, starting with Basic and working my way up. My first love was PHP, developing websites and data collection interfaces in my teenage years.
-
-[![DCCoder StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8333554)](https://stackoverflow.com/users/8333554/dccoder)
-
 
 <p align="center">
   <a href="https://github.com/DCCoder90/github-readme-streak-stats">
@@ -34,6 +31,7 @@ My name is Ernest Mallett. I am a Principal Engineer working at [Elsevier](http
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Apowershell"><img alt="Powershell" src="https://img.shields.io/badge/Powershell-007ACC.svg?logo=powershell&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADCCoder90+language%3Ac++"><img alt="C++" src="https://img.shields.io/badge/C++-B300FF.svg"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADCCoder90+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -119,5 +117,6 @@ My name is Ernest Mallett. I am a Principal Engineer working at [Elsevier](http
                  <a href="https://joplinapp.org/"><img alt="Joplin" src="https://img.shields.io/badge/Joplin-007ACC.svg?logo=joplin&logoColor=white"></a>
 </p>
 
+[![DCCoder StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8333554)](https://stackoverflow.com/users/8333554/dccoder)
 
 *Profile modules supplied by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
