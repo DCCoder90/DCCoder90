@@ -1,17 +1,22 @@
-
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlqNjZkcmZxaGFyczF1a2s0N2c1ZXAwOWw4aWw4d2xwd2JkcTRoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y5OffROvBod0s/giphy.gif" width="100"/>
 </div>
 
 <h1 align="center">
-Hi, I'm DCCoder!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+Hey there, I'm Ernest (aka DCCoder)! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&pause=1000&center=true&width=380&height=45&lines=Code+lover+%7C+Cloud+Enthusiast;Always+in+beta%7CEver+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&pause=1000&center=true&width=450&height=45&lines=Coding+since+I+was+tiny!;Still+figuring+things+out...+mostly!;Obsessed+with+all+things+cloud" alt="Typing SVG" /></a>
 </p>
 <hr/>
 
-My name is Ernest Mallett. I am a Principal Engineer working at [Elsevier](https://beta.elsevier.com/?trial=true) in Submissions. Formerly I have been a C# development instructor, Lead Developer, Team Lead, Sr. Engineer, and other positions with other companies. I have been programming since I was 8 years old, starting with Basic and working my way up. My first love was PHP, developing websites and data collection interfaces in my teenage years.
+What's up! 👋 I'm Ernest, but you can call me DCCoder. By day, I'm wrangling code and bugs as a **Principal Engineer** at [Elsevier](https://beta.elsevier.com/?trial=true) in their Submissions team. We actually build some really cool stuff!
+
+My coding journey started way back when I was 8 (yes, really!) with good ol' Basic. From those humble beginnings, I've dabbled in everything from teaching C# development to leading teams and generally causing good trouble in the tech world. PHP was my first true love – we had some great times building websites and data interfaces in my teenage years. 
+
+When I'm not coding, you can probably find me geeking out over some of the latest tech news, or spending time with my family.
+
 
 <p align="center">
   <a href="https://github.com/DCCoder90/github-readme-streak-stats">
